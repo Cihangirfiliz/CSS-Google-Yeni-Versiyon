@@ -1,0 +1,106 @@
+.link {
+    color: #000;
+    margin: 10px;
+    text-decoration: none;
+}
+
+.link:hover {
+    margin: 10px;
+    text-decoration: underline;
+}
+
+/*  Header Start  */
+
+.sollink {
+    width: 50%;
+    float: left;
+}
+
+.saglink {
+    width: 50%;
+    float: left;
+}
+
+.header-sag {
+    float: right;
+    margin-right: 10px;
+}
+
+.header-button {
+    background-color: #1590ff;
+    color: white;
+    width: 70px;
+    height: 25px;
+    border: none;
+    border-radius: 5px;
+
+}
+
+/* Header End */
+
+
+.google {
+    padding: 250px;
+    text-align: center;
+}
+
+.border {
+    opacity: 0.35;
+    text-align: center;
+    margin-left: 100px;
+    border: 2px solid black;
+    width: 750px;
+    height: 40px;
+    border-radius: 20px;
+}
+
+.icon {
+    margin-top: 10px;
+    width: 70px;
+    height: 35px;
+    float: left;
+}
+
+#icon {
+    float: right;
+}
+
+.search1 {
+    width: 600px;
+    float: left;
+}
+
+.mic {
+    margin-top: 5px;
+    float: left;
+    width: 80px;
+}
+
+
+.search {
+    margin-top: 5px;
+    width: 600px;
+    height: 30px;
+    border: none;
+}
+
+.btn{
+    text-align: center;
+    margin-top: -240px;
+}
+
+.button {
+    
+    background-color: #e2e2e298;
+    margin-top: 10px;
+    height: 35px;
+    width: 145px;
+    border-radius: 10px;
+    border-style: none;
+}
+
+.footer {
+    margin-top: 200px;
+    background-color: #e2e2e2;
+    height: 25px;
+}
